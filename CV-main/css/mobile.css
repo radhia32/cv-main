@@ -1,0 +1,80 @@
+@media all and (max-width: 500px)
+{
+
+main > aside {
+  width: 100%;
+}
+
+main {
+  width: 100%;
+  max-width: 100%;
+  flex-direction:column;
+}
+
+main > article{
+
+  width: 100%;
+  padding: 0 15px;
+
+}
+
+article {
+
+text-align: justify;
+width: 100%; 
+} 
+
+.contact {
+   
+   padding-bottom: auto;
+
+}
+
+.apropos {
+
+  padding-bottom :40%;
+  
+}
+
+.formation, 
+.expe_pro{
+
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.date_formation, 
+.date_expe_pro{
+
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+
+}
+
+#formation,
+#expérience_professionnelles {
+
+  width: 100%;
+  margin-bottom: 0 0 0 0;
+  
+}
+  
+.recomm
+{
+   flex-wrap: wrap;
+   width:100%; 
+}
+
+}
+
+
+
+
+
+
+
+
+
